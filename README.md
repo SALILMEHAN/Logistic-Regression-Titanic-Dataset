@@ -1,1 +1,2 @@
 # Logistic-Regression-Titanic-Dataset
+Logistic Regression Model trained using dataset "Logistic Regression Titanic train.csv" file. This file first cleaned that means the features on which the output is independent got removed, the NaN values got replaced by some number and String got converted to integer for better performance. Then after model was made, the output of "Logistic Regression Titanic test.csv" file predicted and saved in "Logistic Regression Titanic Output.csv" file.
